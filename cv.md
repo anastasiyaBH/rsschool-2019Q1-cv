@@ -2,12 +2,13 @@
 
 
 # My NAME
+![Photo](/images/img.jpg)
 
 ### Personal Data:
-* **Telephone:**   +37544*******
-* **mail:**   email@gmail.com
-* **VK:** [VK](https://vk.com "vk account")
-* **Telegram:** [Telegram](https://telegram.com "telegram account")
+  * **Telephone:**   +37544*******
+  * **Mail:**   email@gmail.com
+  * **VK:** [VK](https://vk.com "vk account")
+  * **Telegram:** [Telegram](https://telegram.com "telegram account")
 ---
 ## Summary
 > text
