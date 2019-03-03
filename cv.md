@@ -12,18 +12,21 @@
 ***
 
 ## Summary
-> text
+> I am seeking employment with a company where I can realize my development skills. 
+In the future, I would like to gain knowledge and experience to become a highly qualified specialist.
 
 ## Skills
-> Basics of C++, SQL, HTML5, CSS3.
+> I have programming experience with C ++, Java, SQL. I have experience in graphic editors Adobe Photoshop, CorelDraw.
+I have basic knowledge of HTML5 and CSS3.
 
 ## Code
 > You can find my projects in [gitHub](https://github.com/anastasiyaBH) account.
 
 ## Education 
-> 2016-2020:  Belarusian State University of Informatics and Radioelectronics
+> 2016-2020:  Belarusian State University of Informatics and Radioelectronics;
+> 2017:   Cisco IT Essentials.
 
 ## English 
-> Engish level: A2 (Pre-Intermediate)
+> I studied English at school. Estimated level of English: A2 (Pre-Intermediate).
 
 ***
