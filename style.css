@@ -1,0 +1,232 @@
+@font-face {
+  font-family: "Lato-Bold";
+  src: url("assets/Lato-Bold.ttf");
+}
+
+@font-face {
+  font-family: "MavenPro-Medium";
+  src: url("assets/MavenPro-Medium.ttf");
+}
+
+@font-face {
+  font-family: "MavenPro-Bold";
+  src: url("assets/MavenPro-Bold.ttf");
+}
+
+@font-face {
+  font-family: "MavenPro-Regular";
+  src: url("assets/MavenPro-Regular.ttf");
+}
+
+header {
+  position: fixed;
+  z-index: 5;
+
+  display: inline-block;
+  width: 100%;
+  height: 70px;
+  margin: 0;
+
+  background-color: #10A1C3;
+}
+
+header h3 {
+  position: relative;
+  top: 20px;
+  left: 20px;
+
+  font-family: "Lato-Bold", "Arail";
+  font-size: 20px;
+
+  color: #fff;
+}
+
+.navigation {
+  position: relative;
+}
+
+.navigation li {
+  float: right;
+}
+
+.navigation a {
+  padding: 20px 30px;
+
+  font-family: "Lato-Bold", "Arail";
+  text-transform: uppercase;
+  font-size: 10px;
+  
+  color: #fff;
+}
+
+.navigation a:hover {
+  font-size: 12px;
+}
+
+main {
+  background-image: url(assets/fon.jpg);
+}
+
+.about-me-block {
+  position: relative;
+
+  width: 1024px;
+  margin: -20px auto 0 auto;
+
+  background-color:rgba(255, 255,255, 0.8);
+}
+
+.img-block {
+  position: relative;
+  top: 90px;
+  left: 100px;
+  
+  width: 220px;
+  height: 300px;
+  margin: 20px;
+
+  border: 5px dotted #10A1C3;
+  border-radius: 10%;
+
+  overflow: hidden;
+}
+
+.img-block img {
+  height: 300px;
+  margin: 0 auto;
+}
+
+.name-block {
+  position: relative;
+  top: -190px;
+  left: 390px;
+
+  display: inline-block;
+  width: 550px;
+  padding: 5px;
+}
+
+.name-block h1 {
+  font-family: "MavenPro-Bold", "Arail";
+  font-size: 45px;
+
+  color:#10A1C3;
+}
+
+.contact-block {
+  position: relative;
+  top: -170px;
+  left: 380px;
+
+  display: inline-block;
+  width: 550px;
+  padding: 5px;
+}
+
+.contact-item {
+  position: relative;
+
+  display: inline-block;
+}
+
+.contact-item img{
+  height: 40px;
+  margin: 5px 15px;
+}
+
+.contact-item a{
+  position: absolute;
+  top: 18px;
+  left: 70px;
+
+  font-family: "MavenPro-Regular", "Arail";
+  font-size: 15px;
+
+
+  color: rgb(4, 56, 71);
+}
+
+.summary-block {
+  position:relative;
+  top: -130px;
+
+  display: inline-block;
+  padding: 5px;
+  margin: 20px;
+
+  font-family: "MavenPro-Medium", "Arail";
+  font-size: 20px;
+
+  color: rgba(16, 161, 195, 1);
+  opacity: 1;
+}
+
+.information-block {
+  position: relative;
+
+  width: 1024px;
+  height: 700px;
+  margin: 0 auto;
+
+  text-align: center;
+
+  background-color:rgb(196, 244, 255, 0.8);
+}
+
+.information-block h2 {
+  display: block;
+
+  font-family: "MavenPro-Bold";
+  font-size: 20pt;
+  text-align: center;
+
+  color: rgb(14, 104, 146);
+}
+
+.education,
+.english,
+.code,
+.skills {
+  display: inline-block;
+  position: relative;
+  
+  width: 450px;
+  padding: 10px;
+  margin: 20px;
+
+  text-align: center;
+
+  border: 5px dotted #10A1C3;
+  border-radius: 10%;
+}
+
+.skills {
+  width: 400px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.education li,
+.english p,
+.code p,
+.skills p {
+  display: inline-block;
+  margin: 10px;
+
+  font-family: "Lato-Bold", "Arail";
+  font-size: 20px;
+
+  color:rgb(4, 56, 71);
+}
+
+.code a{
+  color:rgb(14, 104, 146);
+}
+
+footer {
+  height: 50px;
+  margin-top: -50px;
+
+  background-color: #10A1C3;
+}
+
